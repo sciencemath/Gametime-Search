@@ -6,7 +6,7 @@ To run the app use:
 
 Some things to note:
 
-Opted not to use Redux as the state management lib, for reasons being the app was pretty small and basic.
+Opted not to use Redux as the state management lib, for reasons being the app was pretty small and basic, would have added uneeded complexity.
 
 Somethings that could have been added if more time (1 hour time limit):
 
