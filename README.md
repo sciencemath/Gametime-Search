@@ -14,3 +14,5 @@ Somethings that could have been added if more time (1 hour time limit):
 - Caching
 - More pixel perfect matching design (although thought wasn't necessary for this).
 - More testing (type in input make sure getting results back, shema matches etc).
+- CSS preprocessor
+- memoization
