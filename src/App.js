@@ -14,7 +14,7 @@ function App() {
   /**
    * @TODO
    * Simply returns the results needs some deferment
-   * could cache values manually or use 3rd party libary
+   * could cache values manually or use 3rd party library
    * with retry handling built in.
    *
    * When user is not typing should fetch top searches in background.
